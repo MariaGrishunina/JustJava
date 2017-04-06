@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="thank_you">Спасибо!</string>
+    <string name="toppings">Топпинги</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hello_world">Привет, мир!</string>
+    <string name="name">Имя</string>
+    <string name="whipped_cream">Взбитые сливки</string>
+    <string name="order">Заказ</string>
+    <string name="chocolate">Шоколад</string>
+    <string name="quantity">"Количество: "</string>
+    <string name="order_summary_chocolate">"Добавить шоколад? "</string>
+    <string name="order_summary_email_subject">"Заказ от JustJava для "</string>
+    <string name="order_summary_name">"Имя: "</string>
+    <string name="order_summary_price">"Итого: "</string>
+    <string name="order_summary_quantity">"Количество: "</string>
+    <string name="order_summary_whipped_cream">"Добавить взбитые сливки? "</string>
+    <string name="order_summary_customerName">"Имя: "</string>
+    <string name="toast_decrement_text">Вы не можете заказать меньше 1 кофе</string>
+    <string name="toast_increment_text">Вы не можете заказать больше 100 кофе</string>
+</resources>
